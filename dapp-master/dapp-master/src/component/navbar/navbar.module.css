@@ -1,0 +1,21 @@
+/* App.css */
+.menu-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  
+  :root {
+    --background-color: white;
+    --text-color: black;
+  }
+  
+  [data-theme='dark'] {
+    --background-color: rgb(0, 0, 0); 
+    --text-color: white;
+  }
+  
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }

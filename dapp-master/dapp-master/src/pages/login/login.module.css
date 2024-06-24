@@ -1,0 +1,30 @@
+/* Login.css */
+
+.login-container {
+    max-width: 600px;
+    margin-left: -100px;
+    margin-top: 150px;
+    position: relative;
+  }
+  
+  .login-title {
+    text-align: center;
+    margin-top: 5%;
+    font-family: Dosis;
+    position: relative;
+  }
+  .button-container {
+    position: relative;
+   
+  }
+  .login-button{
+    left: 10px;
+  }
+
+  .generate-otp-button{
+    margin-right: 100px;
+  }
+  
+  
+  
+  
